@@ -6,6 +6,7 @@
 ![Github repo size](https://img.shields.io/github/repo-size/josejhonatadev/replicasiterockstargames)
 ![Github stars](https://img.shields.io/github/stars/josejhonatadev/replicasiterockstargames?style=social)
 
+![Capa do Projeto](https://josejhonatadev.github.io/ReplicaSiteRockstarGames/src/imagens/bg-main.png)
 Projeto Desenvolvido na Semana "Do Zero ao Programador" - Irmãos Dev
 
 > Durante a semana "Do Zero ao Programador", organizada pelos Irmãos Dev, tive a oportunidade de aprimorar minhas habilidades em HTML e CSS. Foi uma experiência enriquecedora que serviu como uma introdução prática e sólida ao mundo do desenvolvimento web.
