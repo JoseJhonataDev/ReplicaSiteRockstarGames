@@ -6,8 +6,6 @@
 ![Github repo size](https://img.shields.io/github/repo-size/josejhonatadev/replicasiteeockstargames)
 ![Github stars](https://img.shields.io/github/stars/josejhonatadev/replicasiteeockstargames?style=social)
 
-![Capa do Projeto](file:///C:/Users/ljose/Downloads/Capa%20do%20Site%20da%20Rockstar%20Games.jpg)
-
 Projeto Desenvolvido na Semana "Do Zero ao Programador" - Irmãos Dev
 
 > Durante a semana "Do Zero ao Programador", organizada pelos Irmãos Dev, tive a oportunidade de aprimorar minhas habilidades em HTML e CSS. Foi uma experiência enriquecedora que serviu como uma introdução prática e sólida ao mundo do desenvolvimento web.
@@ -40,7 +38,10 @@ A estrutura de pastas do projeto é organizada da seguinte maneira:
 ### Disposição e estilos
 
 * `src`: Pasta contendo os arquivos de estilização, imagens, js e as fontes
-* 
+* `css`: Pasta contendo os arquivos de estilização, aplicação da fonte, reponsividade e reset dos estilos pré-definidos pelo navegador
+* `fonts`: Pasta que contêm a fonte  utilizada no projeto
+* `imagens`: Pasta responsável por armazenar as imagens do site
+* `js`: Pasta que contêm o arquivo js, responsável pelass animações do site
 * `index.html`: Página geral do projeto em html
 
 
