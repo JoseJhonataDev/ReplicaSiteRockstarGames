@@ -21,6 +21,7 @@ Nenhum
 A estrutura de pastas do projeto é organizada da seguinte maneira:
 
 ```text
+ | -- projeto-gta
 /
 |-- src/
 |   |-- css/
