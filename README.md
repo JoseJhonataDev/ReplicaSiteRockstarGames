@@ -1,10 +1,10 @@
 # Projeto GTA V
 
 <!-- Shields Exemplo, existem N diferentes shield em https://shields.io/ -->
-![GitHub last commit](https://img.shields.io/github/last-commit/josejhonatadev/replicasiteeockstargames)
-![GitHub language count](https://img.shields.io/github/languages/count/josejhonatadev/replicasiteeockstargames)
-![Github repo size](https://img.shields.io/github/repo-size/josejhonatadev/replicasiteeockstargames)
-![Github stars](https://img.shields.io/github/stars/josejhonatadev/replicasiteeockstargames?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/josejhonatadev/replicasiterockstargames)
+![GitHub language count](https://img.shields.io/github/languages/count/josejhonatadev/replicasiterockstargames)
+![Github repo size](https://img.shields.io/github/repo-size/josejhonatadev/replicasiterockstargames)
+![Github stars](https://img.shields.io/github/stars/josejhonatadev/replicasiterockstargames?style=social)
 
 Projeto Desenvolvido na Semana "Do Zero ao Programador" - Irmãos Dev
 
