@@ -25,25 +25,23 @@ A estrutura de pastas do projeto é organizada da seguinte maneira:
 ```text
 /
 |-- src/
-|   |-- css
-    |     |-- css
-    |     |-- css
-|   |-- arquivo2
-|-- pasta2/
-|   |-- arquivo3
-|   |-- arquivo4
-|-- ...
+|   |-- css/
+|   |     |-- estilos.css
+|   |     |-- fonts.css
+|   |     |-- reset.css
+|   |     |-- responsivo.css
+|   |-- fontes/
+|   |-- imagens/
+|   |-- js/
+|   |     |-- index.js
+|-- index.html
 ```
-
-<!-- Outra forma de descrever é em texto corrido -->
 
 ### Disposição e estilos
 
-* `pasta1`: Dados estruturados para serem reusados de maneira X. Por exemplo Y
-
-* `pasta2`: Componentes que podem ser reusados entre as páginas. Por exemplo Z
-  
-* `...`: Outras informações
+* `src`: Pasta contendo os arquivos de estilização, imagens, js e as fontes
+* 
+* `index.html`: Página geral do projeto em html
 
 
 ## Membros do Projeto
